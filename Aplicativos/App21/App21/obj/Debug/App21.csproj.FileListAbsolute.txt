@@ -1,0 +1,10 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\bin\Debug\App21.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\bin\Debug\App21.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\bin\Debug\App21.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.csprojResolveAssemblyReference.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App21\App21\obj\Debug\App21.pdb

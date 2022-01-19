@@ -1,0 +1,19 @@
+D:\Livro Supervisório VC#\Aplicações\App18\App18\bin\Debug\App18.exe.config
+D:\Livro Supervisório VC#\Aplicações\App18\App18\bin\Debug\App18.exe
+D:\Livro Supervisório VC#\Aplicações\App18\App18\bin\Debug\App18.pdb
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.Form1.resources
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.Properties.Resources.resources
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.csproj.GenerateResource.Cache
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.exe
+D:\Livro Supervisório VC#\Aplicações\App18\App18\obj\Debug\App18.pdb
+C:\Livro VC#\Aplicativos\App18\App18\bin\Debug\App18.exe.config
+C:\Livro VC#\Aplicativos\App18\App18\bin\Debug\App18.exe
+C:\Livro VC#\Aplicativos\App18\App18\bin\Debug\App18.pdb
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.Form1.resources
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.exe
+C:\Livro VC#\Aplicativos\App18\App18\obj\Debug\App18.pdb

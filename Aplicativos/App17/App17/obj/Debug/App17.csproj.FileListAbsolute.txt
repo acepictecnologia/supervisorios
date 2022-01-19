@@ -1,0 +1,21 @@
+D:\Livro Supervisório VC#\Aplicações\App17\App17\bin\Debug\App17.exe.config
+D:\Livro Supervisório VC#\Aplicações\App17\App17\bin\Debug\App17.exe
+D:\Livro Supervisório VC#\Aplicações\App17\App17\bin\Debug\App17.pdb
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.csprojResolveAssemblyReference.cache
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.Form1.resources
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.Properties.Resources.resources
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.csproj.GenerateResource.Cache
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.exe
+D:\Livro Supervisório VC#\Aplicações\App17\App17\obj\Debug\App17.pdb
+C:\Livro VC#\Aplicativos\App17\App17\bin\Debug\App17.exe.config
+C:\Livro VC#\Aplicativos\App17\App17\bin\Debug\App17.exe
+C:\Livro VC#\Aplicativos\App17\App17\bin\Debug\App17.pdb
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.csproj.AssemblyReference.cache
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.Form1.resources
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.exe
+C:\Livro VC#\Aplicativos\App17\App17\obj\Debug\App17.pdb

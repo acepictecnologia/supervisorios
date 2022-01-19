@@ -1,0 +1,15 @@
+D:\Livro Supervisório VC#\Aplicações\App12\App12\bin\Debug\App12.exe.config
+D:\Livro Supervisório VC#\Aplicações\App12\App12\bin\Debug\App12.exe
+D:\Livro Supervisório VC#\Aplicações\App12\App12\bin\Debug\App12.pdb
+D:\Livro Supervisório VC#\Aplicações\App12\App12\obj\Debug\App12.csprojResolveAssemblyReference.cache
+D:\Livro Supervisório VC#\Aplicações\App12\App12\obj\Debug\App12.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App12\App12\obj\Debug\App12.exe
+D:\Livro Supervisório VC#\Aplicações\App12\App12\obj\Debug\App12.pdb
+C:\Livro VC#\Aplicativos\App12\App12\bin\Debug\App12.exe.config
+C:\Livro VC#\Aplicativos\App12\App12\bin\Debug\App12.exe
+C:\Livro VC#\Aplicativos\App12\App12\bin\Debug\App12.pdb
+C:\Livro VC#\Aplicativos\App12\App12\obj\Debug\App12.csproj.AssemblyReference.cache
+C:\Livro VC#\Aplicativos\App12\App12\obj\Debug\App12.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App12\App12\obj\Debug\App12.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App12\App12\obj\Debug\App12.exe
+C:\Livro VC#\Aplicativos\App12\App12\obj\Debug\App12.pdb

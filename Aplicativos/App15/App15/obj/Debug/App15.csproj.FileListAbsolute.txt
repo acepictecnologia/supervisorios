@@ -1,0 +1,13 @@
+D:\Livro Supervisório VC#\Aplicações\App15\App15\bin\Debug\App15.exe.config
+D:\Livro Supervisório VC#\Aplicações\App15\App15\bin\Debug\App15.exe
+D:\Livro Supervisório VC#\Aplicações\App15\App15\bin\Debug\App15.pdb
+D:\Livro Supervisório VC#\Aplicações\App15\App15\obj\Debug\App15.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App15\App15\obj\Debug\App15.exe
+D:\Livro Supervisório VC#\Aplicações\App15\App15\obj\Debug\App15.pdb
+C:\Livro VC#\Aplicativos\App15\App15\bin\Debug\App15.exe.config
+C:\Livro VC#\Aplicativos\App15\App15\bin\Debug\App15.exe
+C:\Livro VC#\Aplicativos\App15\App15\bin\Debug\App15.pdb
+C:\Livro VC#\Aplicativos\App15\App15\obj\Debug\App15.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App15\App15\obj\Debug\App15.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App15\App15\obj\Debug\App15.exe
+C:\Livro VC#\Aplicativos\App15\App15\obj\Debug\App15.pdb

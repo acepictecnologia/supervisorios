@@ -1,0 +1,13 @@
+D:\Livro Supervisório VC#\Aplicações\App4\App4\bin\Debug\App4.exe.config
+D:\Livro Supervisório VC#\Aplicações\App4\App4\bin\Debug\App4.exe
+D:\Livro Supervisório VC#\Aplicações\App4\App4\bin\Debug\App4.pdb
+D:\Livro Supervisório VC#\Aplicações\App4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App4\App4\obj\Debug\App4.exe
+D:\Livro Supervisório VC#\Aplicações\App4\App4\obj\Debug\App4.pdb
+C:\Livro VC#\Aplicativos\App4\App4\bin\Debug\App4.exe.config
+C:\Livro VC#\Aplicativos\App4\App4\bin\Debug\App4.exe
+C:\Livro VC#\Aplicativos\App4\App4\bin\Debug\App4.pdb
+C:\Livro VC#\Aplicativos\App4\App4\obj\Debug\App4.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App4\App4\obj\Debug\App4.exe
+C:\Livro VC#\Aplicativos\App4\App4\obj\Debug\App4.pdb

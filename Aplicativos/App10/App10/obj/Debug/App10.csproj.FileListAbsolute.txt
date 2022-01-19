@@ -1,0 +1,13 @@
+D:\Livro Supervisório VC#\Aplicações\App10\App10\bin\Debug\App10.exe.config
+D:\Livro Supervisório VC#\Aplicações\App10\App10\bin\Debug\App10.exe
+D:\Livro Supervisório VC#\Aplicações\App10\App10\bin\Debug\App10.pdb
+D:\Livro Supervisório VC#\Aplicações\App10\App10\obj\Debug\App10.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App10\App10\obj\Debug\App10.exe
+D:\Livro Supervisório VC#\Aplicações\App10\App10\obj\Debug\App10.pdb
+C:\Livro VC#\Aplicativos\App10\App10\bin\Debug\App10.exe.config
+C:\Livro VC#\Aplicativos\App10\App10\bin\Debug\App10.exe
+C:\Livro VC#\Aplicativos\App10\App10\bin\Debug\App10.pdb
+C:\Livro VC#\Aplicativos\App10\App10\obj\Debug\App10.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App10\App10\obj\Debug\App10.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App10\App10\obj\Debug\App10.exe
+C:\Livro VC#\Aplicativos\App10\App10\obj\Debug\App10.pdb

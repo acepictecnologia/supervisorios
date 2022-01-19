@@ -1,0 +1,14 @@
+C:\Livro VC# 2022\Aplicativos\App24\App24\bin\Debug\App24.exe.config
+C:\Livro VC# 2022\Aplicativos\App24\App24\bin\Debug\App24.exe
+C:\Livro VC# 2022\Aplicativos\App24\App24\bin\Debug\App24.pdb
+C:\Livro VC# 2022\Aplicativos\App24\App24\bin\Debug\AGauge.dll
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.csproj.AssemblyReference.cache
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.Form1.resources
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.frmSerial.resources
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.Properties.Resources.resources
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.csproj.GenerateResource.cache
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.csproj.CoreCompileInputs.cache
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.csproj.CopyComplete
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.exe
+C:\Livro VC# 2022\Aplicativos\App24\App24\obj\Debug\App24.pdb

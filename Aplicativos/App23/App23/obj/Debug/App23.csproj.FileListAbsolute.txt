@@ -1,0 +1,23 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csprojResolveAssemblyReference.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\AGauge.dll
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.pdb
+C:\Livro VC#\Aplicativos\App23\App23\bin\Debug\App23.exe.config
+C:\Livro VC#\Aplicativos\App23\App23\bin\Debug\App23.exe
+C:\Livro VC#\Aplicativos\App23\App23\bin\Debug\App23.pdb
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.csproj.AssemblyReference.cache
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.Form1.resources
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.csproj.CopyComplete
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.exe
+C:\Livro VC#\Aplicativos\App23\App23\obj\Debug\App23.pdb

@@ -1,0 +1,13 @@
+D:\Livro Supervisório VC#\Aplicações\App3\App3\bin\Debug\App3.exe.config
+D:\Livro Supervisório VC#\Aplicações\App3\App3\bin\Debug\App3.exe
+D:\Livro Supervisório VC#\Aplicações\App3\App3\bin\Debug\App3.pdb
+D:\Livro Supervisório VC#\Aplicações\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App3\App3\obj\Debug\App3.exe
+D:\Livro Supervisório VC#\Aplicações\App3\App3\obj\Debug\App3.pdb
+C:\Livro VC#\Aplicativos\App3\App3\bin\Debug\App3.exe.config
+C:\Livro VC#\Aplicativos\App3\App3\bin\Debug\App3.exe
+C:\Livro VC#\Aplicativos\App3\App3\bin\Debug\App3.pdb
+C:\Livro VC#\Aplicativos\App3\App3\obj\Debug\App3.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App3\App3\obj\Debug\App3.exe
+C:\Livro VC#\Aplicativos\App3\App3\obj\Debug\App3.pdb

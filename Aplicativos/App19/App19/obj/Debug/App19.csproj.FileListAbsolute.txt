@@ -1,0 +1,20 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\bin\Debug\App19.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\bin\Debug\App19.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\bin\Debug\App19.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App19\App19\obj\Debug\App19.csprojResolveAssemblyReference.cache
+C:\Livro VC#\Aplicativos\App19\App19\bin\Debug\App19.exe.config
+C:\Livro VC#\Aplicativos\App19\App19\bin\Debug\App19.exe
+C:\Livro VC#\Aplicativos\App19\App19\bin\Debug\App19.pdb
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.Form1.resources
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.exe
+C:\Livro VC#\Aplicativos\App19\App19\obj\Debug\App19.pdb

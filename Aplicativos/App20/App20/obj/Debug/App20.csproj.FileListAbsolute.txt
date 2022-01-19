@@ -1,0 +1,21 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.csprojResolveAssemblyReference.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\bin\Debug\App20.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\bin\Debug\App20.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\bin\Debug\App20.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App20\App20\obj\Debug\App20.pdb
+C:\Livro VC#\Aplicativos\App20\App20\bin\Debug\App20.exe.config
+C:\Livro VC#\Aplicativos\App20\App20\bin\Debug\App20.exe
+C:\Livro VC#\Aplicativos\App20\App20\bin\Debug\App20.pdb
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.csproj.AssemblyReference.cache
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.Form1.resources
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.exe
+C:\Livro VC#\Aplicativos\App20\App20\obj\Debug\App20.pdb

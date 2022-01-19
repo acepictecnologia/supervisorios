@@ -1,0 +1,13 @@
+D:\Livro Supervisório VC#\Aplicações\App7\App7\bin\Debug\App7.exe.config
+D:\Livro Supervisório VC#\Aplicações\App7\App7\bin\Debug\App7.exe
+D:\Livro Supervisório VC#\Aplicações\App7\App7\bin\Debug\App7.pdb
+D:\Livro Supervisório VC#\Aplicações\App7\App7\obj\Debug\App7.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App7\App7\obj\Debug\App7.exe
+D:\Livro Supervisório VC#\Aplicações\App7\App7\obj\Debug\App7.pdb
+C:\Livro VC#\Aplicativos\App7\App7\bin\Debug\App7.exe.config
+C:\Livro VC#\Aplicativos\App7\App7\bin\Debug\App7.exe
+C:\Livro VC#\Aplicativos\App7\App7\bin\Debug\App7.pdb
+C:\Livro VC#\Aplicativos\App7\App7\obj\Debug\App7.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App7\App7\obj\Debug\App7.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App7\App7\obj\Debug\App7.exe
+C:\Livro VC#\Aplicativos\App7\App7\obj\Debug\App7.pdb

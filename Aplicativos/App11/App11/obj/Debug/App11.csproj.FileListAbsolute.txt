@@ -1,0 +1,14 @@
+D:\Livro Supervisório VC#\Aplicações\App11\App11\bin\Debug\App11.exe.config
+D:\Livro Supervisório VC#\Aplicações\App11\App11\bin\Debug\App11.exe
+D:\Livro Supervisório VC#\Aplicações\App11\App11\bin\Debug\App11.pdb
+D:\Livro Supervisório VC#\Aplicações\App11\App11\obj\Debug\App11.csproj.CoreCompileInputs.cache
+D:\Livro Supervisório VC#\Aplicações\App11\App11\obj\Debug\App11.exe
+D:\Livro Supervisório VC#\Aplicações\App11\App11\obj\Debug\App11.pdb
+D:\Livro Supervisório VC#\Aplicações\App11\App11\obj\Debug\App11.csprojResolveAssemblyReference.cache
+C:\Livro VC#\Aplicativos\App11\App11\bin\Debug\App11.exe.config
+C:\Livro VC#\Aplicativos\App11\App11\bin\Debug\App11.exe
+C:\Livro VC#\Aplicativos\App11\App11\bin\Debug\App11.pdb
+C:\Livro VC#\Aplicativos\App11\App11\obj\Debug\App11.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App11\App11\obj\Debug\App11.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App11\App11\obj\Debug\App11.exe
+C:\Livro VC#\Aplicativos\App11\App11\obj\Debug\App11.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cb586fd-91af-4ff8-98bd-4079cc73b042": {
+      "ProjectGuid": "1cb586fd-91af-4ff8-98bd-4079cc73b042",
+      "DisplayName": "App3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

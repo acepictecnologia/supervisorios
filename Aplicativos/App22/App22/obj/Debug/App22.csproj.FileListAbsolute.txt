@@ -1,0 +1,24 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\bin\Debug\App22.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\bin\Debug\App22.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\bin\Debug\App22.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\bin\Debug\AGauge.dll
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.csprojResolveAssemblyReference.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App22\App22\obj\Debug\App22.pdb
+C:\Livro VC#\Aplicativos\App22\App22\bin\Debug\App22.exe.config
+C:\Livro VC#\Aplicativos\App22\App22\bin\Debug\App22.exe
+C:\Livro VC#\Aplicativos\App22\App22\bin\Debug\App22.pdb
+C:\Livro VC#\Aplicativos\App22\App22\bin\Debug\AGauge.dll
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.csproj.AssemblyReference.cache
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.csproj.SuggestedBindingRedirects.cache
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.Form1.resources
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.Properties.Resources.resources
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.csproj.GenerateResource.cache
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.csproj.CoreCompileInputs.cache
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.csproj.CopyComplete
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.exe
+C:\Livro VC#\Aplicativos\App22\App22\obj\Debug\App22.pdb
